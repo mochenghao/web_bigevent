@@ -2,6 +2,11 @@
     text-align: center;
 }
 
+.iconfont {
+    padding-right: 8px;
+}
+
 .layui-icon {
+    padding-left: 25px;
     padding-right: 8px;
 }
