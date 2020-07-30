@@ -20,7 +20,6 @@ $(function () {
 var layer = layui.layer
 // 定义获取用户信息函数
 function getUserInfo() {
-    // var layer = layui.layer
     $.ajax({
         type: 'GET',
         url: '/my/userinfo',
